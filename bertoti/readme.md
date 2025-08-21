@@ -13,7 +13,7 @@ O segundo trecho enfatiza diversas perguntas sobre o suposto principal papel da 
 ### 3 exemplos de tradeoffs
 
 <ul>
-<li>Governo escoolher investir uma área, tirando de outra (educação e saúde, por exemplo)</li>
-<li>Uma empresa demitir um funcionário experiente para contratar outros mais baratos (perde experiencia e ganha dinheiro)</li>
-<li>Trocar de sistema operacional (windows, linux ou mac)</li>
+<li>Desempenho vs. Manutenibilidade: Um código com desempenho melhor pode exigir uma complexidade maior, o que afeta diretamente a manuteniblidade futura. Facilitar o entendimento do código pode ajudar na manutenção, porém pode sacrificar desempenho.</li>
+<li>Tempo de entrega vs. Qualidade: O tempo de entrega é "grandeza" proporcionalmente inversa à qualidade do produto. Tempo curto pode significar menos testes e revisão, porém o cliente normalmente não gosta de prazos longos, que podem equivaler a gastos maiores.</li>
+<li>Customização vs. Padronização: Customização traz uma melhor resposta aos requisitos do cliente, enquanto padronização traz um desenvolvimento mais eficiente.</li>
 </ul>
