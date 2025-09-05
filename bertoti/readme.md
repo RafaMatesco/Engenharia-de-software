@@ -19,8 +19,6 @@ O segundo trecho enfatiza diversas perguntas sobre o suposto principal papel da 
 </ul>
 
 
-...existing code...
-
 ### 4 - Diagrama de Classes UML
 
 ![Diagrama de Classes UML](Images/Diagrama%20de%20classe%20at4.png)
@@ -43,6 +41,16 @@ O segundo trecho enfatiza diversas perguntas sobre o suposto principal papel da 
 
 - **Main Hospital:**  
   ![Main Hospital](Images/Main%20Hospital.png)
+
+<hr>
+
+  ### 6 - Testes automatizados
+
+  - **Classe AgendadorDeConsulta**
+    ![Classe AgendadorDeConsulta](Images/testes%20automatizados.png)
+
+   - **Testes automatizados**
+    ![Classe AgendadorDeConsulta](Images/testes%20automatizados%20classe.png)
 
 
 
